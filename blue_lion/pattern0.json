@@ -3,7 +3,7 @@
   "Layers": [
     {
       "div_x":2,
-      "div_y":2,
+      "div_y":3,
       "delta_t":1,
       "noise_x":0,
       "noise_y":0,
