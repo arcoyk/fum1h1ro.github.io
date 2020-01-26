@@ -1,2 +1,2 @@
-sample.json
-sample2.json
+pattern0.json
+pattern1.json
